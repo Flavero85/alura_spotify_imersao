@@ -59,3 +59,8 @@ body{
     font-size: 14px;
     margin-top: 10px;
 }
+
+.library .library__content{
+    display:flex;
+    justify-content: space-between;
+}
