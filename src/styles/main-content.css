@@ -109,7 +109,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
 .header__login .login {
   width: 100px;
   height: 48px;
-  color: var(--text-base-dark);
+  color: green;
   font-size: 16px;
   font-weight: 700;
   border-radius: 40px;
